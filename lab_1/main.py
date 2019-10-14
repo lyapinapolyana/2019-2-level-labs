@@ -4,9 +4,7 @@ Count frequencies dictionary by the given arbitrary text
 """
 
 
-text = ('''
-
-''')
+text = ('')
 
 stop_words = ('ourselves', 'hers', 'between', 'yourself', 'but', 'again', 'there', 'about',
               'once', 'during', 'out', 'very', 'having', 'with', 'they', 'own', 'an', 'be',
